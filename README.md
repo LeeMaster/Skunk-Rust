@@ -1,2 +1,2 @@
-# Skunk-Rust
-Rust async proactor network framework 
+# Skunk
+Rust io_uring proactor network framework with libc
