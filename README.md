@@ -1,2 +1,3 @@
-# Skunk-Rust
-Rust async proactor network framework 
+# Skunk
+
+Rust iouring network framework used in many project in gearfactory.
