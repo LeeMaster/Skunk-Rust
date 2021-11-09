@@ -1,2 +1,3 @@
 # Skunk
-Rust io_uring proactor network framework with libc
+
+Rust iouring network framework used in many project in gearfactory.
